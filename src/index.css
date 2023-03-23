@@ -20,6 +20,6 @@ a {
 }
 
 @font-face {
-  font-family: "burtons";
-  src: url("../public/Burtons.otf");
+  font-family: "georgia";
+  src: url("../public/GeorgiaBoldItalicfont.ttf", format("truetype"));
 }
